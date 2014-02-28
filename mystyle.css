@@ -1,0 +1,23 @@
+h1 {
+  font-family: Georgia, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 2em;
+  font-size: 25px;
+}
+
+h2 {
+  font-family: Georgia;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 2em;
+  font-size: 25px;
+}
+
+p {
+  font-family: Palatino, Helvetica;
+  font-size: 15px;
+  font-variant:small-caps;
+  line-height: .5em;
+  
+}
